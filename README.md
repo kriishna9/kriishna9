@@ -52,6 +52,6 @@ Designed and built a hardware-based drone by integrating essential components su
 
 | Platform | Link |
 |---|---|
-| LinkedIn | [Add your LinkedIn profile]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/krishna-moni-konwar-6a0925236/)) |
+| LinkedIn | [Krishna Moni Konwar](https://www.linkedin.com/in/krishna-moni-konwar-6a0925236/) |
 | Email | krishnamonikonwar38@gmail.com |
-| GitHub | [github.com/your-username](https://github.com/kriishna9) |
+| GitHub | [github.com/kriishna9](https://github.com/kriishna9) |
